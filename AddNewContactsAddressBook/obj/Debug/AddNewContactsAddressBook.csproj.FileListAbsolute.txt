@@ -1,0 +1,8 @@
+C:\Users\amakuma6\source\repos\AddNewContactsAddressBook\AddNewContactsAddressBook\bin\Debug\AddNewContactsAddressBook.exe.config
+C:\Users\amakuma6\source\repos\AddNewContactsAddressBook\AddNewContactsAddressBook\bin\Debug\AddNewContactsAddressBook.exe
+C:\Users\amakuma6\source\repos\AddNewContactsAddressBook\AddNewContactsAddressBook\bin\Debug\AddNewContactsAddressBook.pdb
+C:\Users\amakuma6\source\repos\AddNewContactsAddressBook\AddNewContactsAddressBook\obj\Debug\AddNewContactsAddressBook.csproj.AssemblyReference.cache
+C:\Users\amakuma6\source\repos\AddNewContactsAddressBook\AddNewContactsAddressBook\obj\Debug\AddNewContactsAddressBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\amakuma6\source\repos\AddNewContactsAddressBook\AddNewContactsAddressBook\obj\Debug\AddNewContactsAddressBook.csproj.CoreCompileInputs.cache
+C:\Users\amakuma6\source\repos\AddNewContactsAddressBook\AddNewContactsAddressBook\obj\Debug\AddNewContactsAddressBook.exe
+C:\Users\amakuma6\source\repos\AddNewContactsAddressBook\AddNewContactsAddressBook\obj\Debug\AddNewContactsAddressBook.pdb
